@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,45:111827,100:2563EB&text=Franco%20Oyarzo&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Software%20Development%20%C2%B7%20Infrastructure%20%C2%B7%20Cybersecurity&descAlignY=58&descSize=18&animation=fadeIn" alt="Franco Oyarzo banner"/>
+<img width="100%" src="./assets/banner.svg" alt="Franco Oyarzo — Software Development, Infrastructure and Cybersecurity"/>
+
+<br/>
 
 <a href="https://github.com/Frante23">
   <img src="https://img.shields.io/badge/GitHub-Frante23-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
@@ -8,8 +10,11 @@
 <a href="https://linkedin.com/in/Franco-Oyarzo-Calisto">
   <img src="https://img.shields.io/badge/LinkedIn-Franco%20Oyarzo-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+<img src="https://komarev.com/ghpvc/?username=Frante23&style=flat-square&label=Profile+views" alt="Profile views"/>
 
 </div>
+
+<br/>
 
 ## 👨‍💻 About Me
 
@@ -21,7 +26,7 @@ My main interests include **software architecture, backend systems, Linux admini
 
 ---
 
-## 💻 Languages
+## 💻 Programming Languages
 
 <div align="center">
 
@@ -32,6 +37,8 @@ My main interests include **software architecture, backend systems, Linux admini
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 </div>
+
+---
 
 ## 🧰 Tech Stack
 
@@ -82,25 +89,17 @@ My main interests include **software architecture, backend systems, Linux admini
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/stats.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile/stats.svg">
-  <img height="175" src="./profile/stats.svg" alt="Franco Oyarzo GitHub statistics"/>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs.svg">
-  <img height="175" src="./profile/top-langs.svg" alt="Most used languages"/>
-</picture>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Frante23&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
+<img height="185" src="./profile/stats.svg" alt="Franco Oyarzo GitHub statistics"/>
+<img height="185" src="./profile/top-langs.svg" alt="Most used languages in repositories"/>
 
 </div>
 
-> The language card reflects code detected in GitHub repositories; it is not a measure of proficiency.
+<p align="center">
+  <sub>
+    These cards are generated in this repository through GitHub Actions using authenticated GitHub data.
+    The language card represents repository language usage, not programming-language proficiency.
+  </sub>
+</p>
 
 ---
 
@@ -119,12 +118,12 @@ My main interests include **software architecture, backend systems, Linux admini
 </div>
 
 <p align="center">
-  <sub>More projects will be added here as public portfolio-ready versions become available.</sub>
+  <sub>Public portfolio projects are highlighted here; stronger production-oriented projects can replace these cards as public versions become available.</sub>
 </p>
 
 ---
 
-## 🎯 Current Interests
+## 🎯 Engineering Interests
 
 <div align="center">
 
@@ -132,16 +131,10 @@ My main interests include **software architecture, backend systems, Linux admini
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Frante23&style=flat-square&label=Profile+views" alt="Profile views"/>
-
-<br/><br/>
-
-<b>Building software, understanding infrastructure and securing the whole stack.</b>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0D1117,45:111827,100:2563EB&section=footer" alt="footer"/>
+<img width="100%" src="./assets/footer.svg" alt="Profile footer"/>
 
 </div>

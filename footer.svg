@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-labelledby="title">
+  <title id="title">Building software, understanding infrastructure and securing the whole stack.</title>
+  <defs>
+    <linearGradient id="footerBg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="50%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0B3B75"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="120" rx="20" fill="url(#footerBg)"/>
+  <text x="600" y="58" text-anchor="middle" fill="#F0F6FC" font-family="'Segoe UI', Arial, sans-serif" font-size="20" font-weight="600">
+    Building software, understanding infrastructure and securing the whole stack.
+  </text>
+  <text x="600" y="84" text-anchor="middle" fill="#8B949E" font-family="monospace" font-size="13">
+    Frante23
+  </text>
+</svg>
