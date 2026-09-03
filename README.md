@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-Stack Developer specializing in building scalable, performant web applications with a strong foundation in IT Infrastructure and<br>Cybersecurity. Adept at bridging the gap between software development and systems engineering, with a focus on implementing secure coding<br>practices, containerized deployments, and cloud security. Proven track record of delivering end-to-end applications while proactively identifying architectural vulnerabilities and optimizing system infrastructure.<br>
+Full-Stack Developer with a strong foundation in IT Infrastructure and Cybersecurity. Adept at bridging the gap between software development and systems engineering, with a focus on implementing secure coding practices, containerized deployments, and cloud security. Proven track record of delivering end-to-end applications while proactively identifying architectural vulnerabilities and optimizing system infrastructure.<br>
 
 
 ## 🌐 Socials:
