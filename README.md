@@ -1,13 +1,13 @@
 <div align="center">
 
-<img width="100%" src="./assets/banner.svg" alt="Franco Oyarzo — Software Development, Infrastructure and Cybersecurity"/>
+<img width="100%" src="./assets/banner.svg" alt="Franco Oyarzo Calisto — Software Development, Infrastructure and Cybersecurity"/>
 
 <br/>
 
 <a href="https://github.com/Frante23">
   <img src="https://img.shields.io/badge/GitHub-Frante23-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://linkedin.com/in/Franco-Oyarzo-Calisto">
+<a href="https://www.linkedin.com/in/franco-oyarzo-calisto-5602032a8/">
   <img src="https://img.shields.io/badge/LinkedIn-Franco%20Oyarzo-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=Frante23&style=flat-square&label=Profile+views" alt="Profile views"/>
@@ -85,20 +85,35 @@ My main interests include **software architecture, backend systems, Linux admini
 
 ---
 
+## 🏛️ Selected Systems
+
+I have worked on the development and maintenance of software systems focused on real-world administrative and operational workflows.
+
+<div align="center">
+
+**Expedientes Sociales**  
+Case and social-assistance workflow management.
+
+**Inventario Social**  
+Inventory and resource-management system.
+
+**Sistema Navidad**  
+Application for managing seasonal municipal assistance processes.
+
+</div>
+
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="185" src="./profile/stats.svg" alt="Franco Oyarzo GitHub statistics"/>
+<img height="185" src="./profile/stats.svg" alt="Franco Oyarzo Calisto GitHub statistics"/>
 <img height="185" src="./profile/top-langs.svg" alt="Most used languages in repositories"/>
 
 </div>
 
 <p align="center">
-  <sub>
-    These cards are generated in this repository through GitHub Actions using authenticated GitHub data.
-    The language card represents repository language usage, not programming-language proficiency.
-  </sub>
+  <sub>Language statistics represent repository usage, not proficiency.</sub>
 </p>
 
 ---
@@ -117,9 +132,6 @@ My main interests include **software architecture, backend systems, Linux admini
 
 </div>
 
-<p align="center">
-  <sub>Public portfolio projects are highlighted here; stronger production-oriented projects can replace these cards as public versions become available.</sub>
-</p>
 
 ---
 
