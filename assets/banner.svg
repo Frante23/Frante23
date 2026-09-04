@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">Franco Oyarzo</title>
+  <title id="title">Franco Oyarzo Calisto</title>
   <desc id="desc">Software Development, Infrastructure and Cybersecurity</desc>
 
   <defs>
@@ -45,8 +45,8 @@
   </g>
 
   <g font-family="'Segoe UI', Arial, sans-serif" text-anchor="middle">
-    <text x="600" y="124" fill="#F0F6FC" font-size="54" font-weight="700" letter-spacing="1">Franco Oyarzo</text>
-    <rect x="355" y="148" width="490" height="3" rx="2" fill="url(#accent)"/>
+    <text x="600" y="124" fill="#F0F6FC" font-size="46" font-weight="700" letter-spacing="1">Franco Oyarzo Calisto</text>
+    <rect x="330" y="148" width="540" height="3" rx="2" fill="url(#accent)"/>
     <text x="600" y="192" fill="#C9D1D9" font-size="21" font-weight="500">Software Development · Infrastructure · Cybersecurity</text>
     <text x="600" y="232" fill="#8B949E" font-size="16">Backend systems · Linux · Cloud · Secure software</text>
   </g>

@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/GitHub-Frante23-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/franco-oyarzo-calisto-5602032a8/">
-  <img src="https://img.shields.io/badge/LinkedIn-Franco%20Oyarzo-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Franco%20Oyarzo%20Calisto-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=Frante23&style=flat-square&label=Profile+views" alt="Profile views"/>
 
@@ -85,23 +85,21 @@ My main interests include **software architecture, backend systems, Linux admini
 
 ---
 
-## 🏛️ Selected Systems
+## 🏛️ Municipal Systems
 
-I have worked on the development and maintenance of software systems focused on real-world administrative and operational workflows.
+### 📁 Expedientes Sociales
 
-<div align="center">
+Digitalization of the social-assistance process, supporting the management of applications, case files and the workflow involved in delivering municipal social aid.
 
-**Expedientes Sociales**  
-Case and social-assistance workflow management.
+### 📦 Inventario Social
 
-**Inventario Social**  
-Inventory and resource-management system.
+Inventory-control system for tracking the entry and exit of goods and social-assistance resources, as well as purchases managed by the department.
 
-**Sistema Navidad**  
-Application for managing seasonal municipal assistance processes.
+### 🎄 Sistema Navidad
 
-</div>
+Registration and beneficiary-management system for the Christmas gift program, designed for children enrolled through neighborhood associations, Indigenous communities and other participating community organizations.
 
+---
 
 ## 📊 GitHub Analytics
 
@@ -131,7 +129,6 @@ Application for managing seasonal municipal assistance processes.
 </a>
 
 </div>
-
 
 ---
 
