@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Franco Oyarzo Calisto's GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  : 1004, Total PRs: 9, Total Issues: 0, Contributed to (last year): 5</desc>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  : 1024, Total PRs: 9, Total Issues: 0, Contributed to (last year): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 215.97416761636688;
+        stroke-dashoffset: 214.81395977285882;
       }
     }
   
